@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am an Associate Professor in the College of Information and Electrical Engineering at China Agricultural University. My research integrates instrumentation, environmental physics, and sensing technologies to better characterize and manage complex soil-plant-atmosphere interactions.
 
 Research Interests
 ------
@@ -19,7 +19,12 @@ Research Interests
 Work Experience
 ------
 - 2024‒present, Associate Professor, College of Information and Electrical Engineering, China Agricultural University, Beijing, China
-- 2022‒present, Adjunct Faculty, Department of Plants, Soils, and Climate, Utah State University,  Logan, Utah
+- 2022‒present, Adjunct Faculty, Department of Plants, Soils, and Climate, Utah State University, Logan, Utah
+- 2019‒2023, Assistant Professor, College of Information and Electrical Engineering, China Agricultural University, Beijing, China
+- 2018‒2019, Application Scientist, Campbell Scientific, Beijing, China
+- 2014‒2018, Postdoctoral Fellow, Department of Plants, Soils, and Climate, Utah State University, Logan, Utah
+- 2013‒2014, Assistant Research Associate, Institute of Intelligent Machines, Chinese Academy of Sciences, Hefei, China
+- 2009‒2012, Visiting Scholar, Institute of Agricultural Engineering, University of Bonn, Bonn, Germany
 
 Education
 ------

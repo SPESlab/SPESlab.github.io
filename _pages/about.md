@@ -18,23 +18,10 @@ Research Interests
 
 Work Experience
 ------
+<pre>
 | 2024‒present  | Associate Professor  | College of Information and Electrical Engineering, China Agricultural University |  Beijing, China  |
 | 2022‒present  | Adjunct Faculty      | Department of Plants, Soils, and Climate, Utah State University                  |  Logan, Utah     |
-
-- 2024‒present	Associate Professor
-Beijing, China	College of Information and Electrical Engineering, China Agricultural University
-2022‒present	Adjunct Faculty
-Logan, Utah	Department of Plants, Soils, and Climate, Utah State University
-2019‒2023	Assistant Professor
-Beijing, China 	College of Information and Electrical Engineering, China Agricultural University
-2018‒2019	Application Scientist
-Beijing, China 	Campbell Scientific Beijing Co., Ltd.
-2014‒2018	Postdoctoral Fellow
-Logan, Utah	Department of Plants, Soils, and Climate, Utah State University
-2013‒2014	Assistant Research Associate 
-Hefei, China 	Institute of Intelligent Machines, Chinese Academy of Sciences
-2009‒2012		Visiting Scholar
-Bonn, Germany	Institute of Agricultural Engineering, University of Bonn
+</pre>
 
 Education
 ------

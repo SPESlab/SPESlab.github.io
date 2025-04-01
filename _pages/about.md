@@ -13,11 +13,14 @@ Research Interests
 ------
 -	Instrumentation for characterization of soil properties and processes, including soil-water content, -water potential, -electric conductivity, -compaction, -bulk density, -thermal properties, -water flux, -heat flux, -greenhouse gas emission, and -evapotranspiration.
 -	Dielectric measurement; time domain reflectometry; frequency domain measurement; dielectric spectroscopy; electromagnetic simulation.
--	Soil thermal measurement; heat pulse probe; thermo-TDR; thermo-FDR;heat transfer model.
+-	Soil thermal measurement; heat pulse probe; thermo-TDR; thermo-FDR; heat transfer model.
 -	Three-dimensional, multispectral, and thermal measurements for plant status monitoring.
 
 Work Experience
 ------
+| 2024‒present  | Associate Professor  | College of Information and Electrical Engineering, China Agricultural University |  Beijing, China  |
+| 2022‒present  | Adjunct Faculty      | Department of Plants, Soils, and Climate, Utah State University                  |  Logan, Utah     |
+
 - 2024‒present	Associate Professor
 Beijing, China	College of Information and Electrical Engineering, China Agricultural University
 2022‒present	Adjunct Faculty
